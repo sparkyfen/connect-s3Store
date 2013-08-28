@@ -56,5 +56,7 @@ License
 
 [MIT]
 
+Copyright(c) 2013 Adam Schodde <sparky1010+github@gmail.com>
+
   [Adam Schodde]: http://bitbucket.org/brutalhonesty
   [MIT]: http://www.tldrlegal.com/license/mit-license
