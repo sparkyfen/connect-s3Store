@@ -1,0 +1,39 @@
+{
+  "name": "connect-s3Store",
+  "description": "Express Js Session Store with Amazon S3",
+  "version": "0.0.1",
+  "keywords": [
+    "amazon s3",
+    "s3",
+    "aws-sdk",
+    "aws",
+    "expressjs",
+    "express",
+    "sessionStore"
+  ],
+  "maintainers": [
+    {
+      "name": "Adam Schodde",
+      "email": "sparky1010+npm@gmail.com",
+      "web": "https://bitbucket.org/brutalhonesty"
+    }
+  ],
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {
+    "aws-sdk": "~v1.4.1",
+    "debug": "~0.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "http://www.tldrlegal.com/license/mit-license"
+    }
+  ],
+  "homepage": ""
+}
