@@ -22,7 +22,7 @@
     "url": ""
   },
   "dependencies": {
-    "aws-sdk": "~v1.4.1",
+    "aws-sdk": "^2.1.45",
     "debug": "~0.7.2"
   },
   "repository": {
